@@ -1,9 +1,9 @@
 # Site settings
 title: SALESHORSES
-email: john.lamar@gmail.com
+#email: john.lamar@gmail.com
 description: "Get to the horse!"
 baseurl: ""
-url: "http://saleshorse.space"
+#url: "http://saleshorse.space"
 twitter_username: Benioff
 github_username:  Saleshorses
 
