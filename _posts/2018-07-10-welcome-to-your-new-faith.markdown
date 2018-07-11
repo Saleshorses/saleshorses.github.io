@@ -7,4 +7,4 @@ categories: jekyll update
 
 One day, you'll all be converted. 
 
-![LOCK EM UP]({{ site.url }}/assets/CBP.jpg | width=100) 
+![LOCK EM UP]({{ site.url }}/assets/CBP.jpg) 
